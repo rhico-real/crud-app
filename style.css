@@ -1,0 +1,33 @@
+body{
+  background: #383838;
+}
+
+.container{
+  background: white;
+  height: 75vh;
+  width: 25%;
+  margin-top: 5rem;
+  overflow-y: scroll;
+}
+
+.new-article i{
+  font-size: 180%;
+  margin-top: 2rem;
+}
+
+.new-article #input{
+  margin-left: -2rem;
+  height: 10rem;
+  outline: none;
+  border: none;
+}
+
+.article{
+  margin-left: 30%;
+}
+
+#list{
+  margin-left: -5rem;
+  border: 1px solid red;
+  list-style: none;
+}
